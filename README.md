@@ -4,6 +4,6 @@
 
 * Annotation — подготовка данных для ручной разметки
 * Preprocess — подготовка данных для даталоадера
-* Embeddings — выгрузка только немецких эмбеддингов из файла
+* Embeddings — выгрузка только немецких эмбеддингов из файла эмбеддингов numberbatch-19.08.txt.gz (https://github.com/commonsense/conceptnet-numberbatch)
 * RNN, GRU, LSTM —  эксперименты на ячейках
 * Data_Experiments — эксперименты с разным объемом данных 
